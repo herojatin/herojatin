@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @herojatin
 - 👀 I’m interested in c++,javascipt,react,html,css
 - 🌱 I’m currently pursuing MCA
-- 💞️ I’m looking to collaborate on : Some deadly cretive and amazing projects 
+- 💞️ I’m looking to collaborate on : Some deadly creative and amazing projects 
 - 📫 you can reach me through instagram- jatin_sirwani_01
 - ⚡ Fact: Money can buy happines 
 
